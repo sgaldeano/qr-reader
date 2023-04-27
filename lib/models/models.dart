@@ -1,0 +1,1 @@
+export 'package:s10_qr_reader/models/qr_code_scan.dart';
